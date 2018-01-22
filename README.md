@@ -1,5 +1,5 @@
 # RobotProject
-Line-Following Robot C code used on a PIC32 MX7 development board
+Line-Following Robot C code used on a Digilent MX7 development board
 
 ## Materials Required
 1 PIC32MX7 Development Board
