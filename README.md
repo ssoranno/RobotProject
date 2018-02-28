@@ -18,6 +18,9 @@ Line-Following Robot C code used on a Digilent MX7 development board
 
 ## MX7 Port Connections
 The SSDs are attached to the top rows of ports JA & JB and the top rows of Ports JC & JD
+
 The Pmod 8LD is connected to port JF
+
 The IR sensors are connected to the top rows of port JE
+
 The 2 servo motors is connected to the bottom of port JD
