@@ -12,5 +12,12 @@ Line-Following Robot C code used on a Digilent MX7 development board
 
 1 PmodMIC (Digilent pmod microphone)
 
-## How it works?
-The servo motors are attached to the spi bus on the MX7.
+2 Seven Segment Displays
+
+1 Digilent Pmod 8LD
+
+## MX7 Port Connections
+The SSDs are attached to the top rows of ports JA & JB and the top rows of Ports JC & JD
+The Pmod 8LD is connected to port JF
+The IR sensors are connected to the top rows of port JE
+The 2 servo motors is connected to the bottom of port JD
