@@ -9,3 +9,5 @@ Line-Following Robot C code used on a Digilent MX7 development board
 1 Digilent Robotics Kit
 
 2 Servo Motors
+
+1 PmodMIC (Digilent pmod microphone)
