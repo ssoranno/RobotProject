@@ -1,5 +1,5 @@
 # RobotProject
-Line-Following Robot C code used on a Digilent MX7 development board
+Line-Following Robot C code used on a Digilent MX7 development board.<br>
 This project was created for Microprocessor Systems class.
 
 ## Materials Required
