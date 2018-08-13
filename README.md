@@ -1,5 +1,6 @@
 # RobotProject
 Line-Following Robot C code used on a Digilent MX7 development board
+This project was created for Microprocessor Systems class.
 
 ## Materials Required
 1 PIC32MX7 Development Board
