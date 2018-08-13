@@ -16,3 +16,6 @@ The SSDs are attached to the top rows of ports JA & JB and the top rows of Ports
 The Pmod 8LD is connected to port JF<br>
 The IR sensors are connected to the top rows of port JE<br>
 The 2 servo motors is connected to the bottom of port JD<br>
+
+## Design Approach
+This Robot uses the IR sensors to follow a black line on a white background.
