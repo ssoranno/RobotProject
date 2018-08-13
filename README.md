@@ -18,7 +18,7 @@ This project was created for Microprocessor Systems class.
 1 Digilent Pmod 8LD
 
 ## MX7 Port Connections
-  The SSDs are attached to the top rows of ports JA & JB and the top rows of Ports JC & JD
-  The Pmod 8LD is connected to port JF
-  The IR sensors are connected to the top rows of port JE
-  The 2 servo motors is connected to the bottom of port JD
+The SSDs are attached to the top rows of ports JA & JB and the top rows of Ports JC & JD<br>
+The Pmod 8LD is connected to port JF<br>
+The IR sensors are connected to the top rows of port JE<br>
+The 2 servo motors is connected to the bottom of port JD<br>
