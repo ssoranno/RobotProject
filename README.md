@@ -3,19 +3,13 @@ Line-Following Robot C code used on a Digilent MX7 development board
 This project was created for Microprocessor Systems class.
 
 ## Materials Required
-1 PIC32MX7 Development Board
-
-4 IR sensors
-
-1 Digilent Robotics Kit
-
-2 Servo Motors
-
-1 PmodMIC (Digilent pmod microphone)
-
-2 Seven Segment Displays
-
-1 Digilent Pmod 8LD
+1 PIC32MX7 Development Board<br>
+4 IR sensors<br>
+1 Digilent Robotics Kit<br>
+2 Servo Motors<br>
+1 PmodMIC (Digilent pmod microphone)<br>
+2 Seven Segment Displays<br>
+1 Digilent Pmod 8LD<br>
 
 ## MX7 Port Connections
 The SSDs are attached to the top rows of ports JA & JB and the top rows of Ports JC & JD<br>
