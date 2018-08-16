@@ -17,5 +17,19 @@ The Pmod 8LD is connected to port JF<br>
 The IR sensors are connected to the top rows of port JE<br>
 The 2 servo motors is connected to the bottom of port JD<br>
 
-## Design Approach
-This Robot uses the IR sensors to follow a black line on a white background.
+## Program Inputs
+Microphone
+IR Sensors
+
+## Program Outputs
+On-board LEDs
+8 LEDs on 8 LD pmod
+Seven-segment Displays
+R/C Servos
+
+## Robot Functionality
+ Markup : * Follows a 2” wide printed black line on a white background.
+ * Makes turns based on the black line path
+ * Uses an analog microphone input into and ADC10 pin to trigger the start of the robot off of two load signals (hand claps) within a 1 second time span. 
+ * Uses the CoreTimer, calculate the time it takes to complete the course in tenths of a second (i.e. 100s of milliseconds) and display it on the 4 SSDs such that the numbers are right side up.
+ * The Robot then stops at a solid black end line.
