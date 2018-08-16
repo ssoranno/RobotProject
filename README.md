@@ -18,14 +18,14 @@ The IR sensors are connected to the top rows of port JE<br>
 The 2 servo motors is connected to the bottom of port JD<br>
 
 ## Program Inputs
-Microphone
+Microphone<br>
 IR Sensors
 
 ## Program Outputs
-On-board LEDs
-8 LEDs on 8 LD pmod
-Seven-segment Displays
-R/C Servos
+On-board LEDs<br>
+8 LEDs on 8 LD pmod<br>
+Seven-segment Displays<br>
+R/C Servos<br>
 
 ## Robot Functionality
  * Follows a 2” wide printed black line on a white background.
