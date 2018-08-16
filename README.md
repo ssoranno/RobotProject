@@ -28,7 +28,7 @@ Seven-segment Displays
 R/C Servos
 
 ## Robot Functionality
- Markup : * Follows a 2” wide printed black line on a white background.
+ * Follows a 2” wide printed black line on a white background.
  * Makes turns based on the black line path
  * Uses an analog microphone input into and ADC10 pin to trigger the start of the robot off of two load signals (hand claps) within a 1 second time span. 
  * Uses the CoreTimer, calculate the time it takes to complete the course in tenths of a second (i.e. 100s of milliseconds) and display it on the 4 SSDs such that the numbers are right side up.
